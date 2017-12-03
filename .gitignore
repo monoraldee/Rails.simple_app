@@ -16,3 +16,4 @@
 /tmp
 *.sw[o-q]
 bundler_Stubs/
+.DS_Store
