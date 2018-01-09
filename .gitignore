@@ -15,5 +15,7 @@
 /log/*.log
 /tmp
 *.sw[o-q]
+*.iml
+*.idea
 bundler_Stubs/
 .DS_Store
